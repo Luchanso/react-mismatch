@@ -1,0 +1,12 @@
+{
+  "name": "react-mismatch",
+  "version": "0.1.0",
+  "description": "Check react diff for SSR",
+  "main": "src/index.js",
+  "repository": "git@github.com:Luchanso/react-mismatch.git",
+  "author": "Luchanskiy Oleg <luchansodev@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fast-diff": "^1.2.0"
+  }
+}
