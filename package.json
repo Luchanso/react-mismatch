@@ -7,6 +7,6 @@
   "author": "Luchanskiy Oleg <luchansodev@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "fast-diff": "^1.2.0"
+    "fast-diff": "1.2.0"
   }
 }
