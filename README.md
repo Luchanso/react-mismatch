@@ -36,3 +36,4 @@ ReactDOM.hydrate(<App />, appNode, mismatchCallback);
 - [ ] More informative diff
 - [ ] Unit tests
 - [ ] Minification and polyfill
+- [ ] Prettier for diff
