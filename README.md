@@ -16,7 +16,7 @@ yarn add react-mismatch
 
 ## How to use
 
-Desclimer: Don't use in PRODUCTION mode
+Disclaimer: Don't use in PRODUCTION mode
 
 ```jsx
 import React from 'react';
